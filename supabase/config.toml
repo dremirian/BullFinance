@@ -1,0 +1,22 @@
+project_id = "vwfjlfjwocsrzcbjjwwd"
+
+[functions.bull-ai-chat]
+verify_jwt = false
+
+[functions.generate-recurring-accounts]
+verify_jwt = false
+
+[functions.calculate-risk-score]
+verify_jwt = false
+
+[functions.generate-pix]
+verify_jwt = false
+
+[functions.generate-boleto]
+verify_jwt = false
+
+[functions.sync-open-banking]
+verify_jwt = false
+
+[functions.suggest-category]
+verify_jwt = false
